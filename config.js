@@ -42,7 +42,7 @@ global.scan = "https://secret-garden-43998-4daad95d4561.herokuapp.com/";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  ""
+  "https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"
 module.exports = {
   menu: process.env.MENU || "2",
   HANDLERS: process.env.PREFIX || ".",
